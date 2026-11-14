@@ -1,0 +1,121 @@
+documento,archivo,fecha,proveedor,renglon,producto,cantidad,presentacion,precio,bonif_pct,neto,total_documento
+M-001,facturas/IMG_4031.jpg,2026-08-14,Huerta del Andén,1,H01,4000.00,g,1.44,8.00,5299.20,41475.57
+M-001,facturas/IMG_4031.jpg,2026-08-14,Huerta del Andén,2,H02,2.00,kg,1211.97,0.00,2423.94,41475.57
+M-001,facturas/IMG_4031.jpg,2026-08-14,Huerta del Andén,3,H03,3000.00,g,2.56,8.00,7065.60,41475.57
+M-001,facturas/IMG_4031.jpg,2026-08-14,Huerta del Andén,4,H04,2.00,bolsa,9586.28,0.00,19172.56,41475.57
+M-001,facturas/IMG_4031.jpg,2026-08-14,Huerta del Andén,5,H05,6.00,kg,1361.28,8.00,7514.27,41475.57
+M-002,facturas/IMG_4048.jpg,2026-08-14,Frigorífico del Muelle,1,C01,4.00,kg,6612.37,8.00,24333.52,125794.74
+M-002,facturas/IMG_4048.jpg,2026-08-14,Frigorífico del Muelle,2,C02,2000.00,g,12.16,8.00,22374.40,125794.74
+M-002,facturas/IMG_4048.jpg,2026-08-14,Frigorífico del Muelle,3,C03,4.00,kg,9536.01,8.00,35092.52,125794.74
+M-002,facturas/IMG_4048.jpg,2026-08-14,Frigorífico del Muelle,4,C04,2.00,kg,10507.08,0.00,21014.16,125794.74
+M-002,facturas/IMG_4048.jpg,2026-08-14,Frigorífico del Muelle,5,C05,2.00,kg,11490.07,0.00,22980.14,125794.74
+M-003,facturas/IMG_4065.jpg,2026-08-14,Almacén del Molino Azul,1,A01,4000.00,g,1.21,8.00,4452.80,98455.69
+M-003,facturas/IMG_4065.jpg,2026-08-14,Almacén del Molino Azul,2,A02,5.00,bolsa,12134.61,8.00,55819.21,98455.69
+M-003,facturas/IMG_4065.jpg,2026-08-14,Almacén del Molino Azul,3,A03,5.00,kg,3392.03,8.00,15603.34,98455.69
+M-003,facturas/IMG_4065.jpg,2026-08-14,Almacén del Molino Azul,4,A04,4000.00,g,3.00,8.00,11040.00,98455.69
+M-003,facturas/IMG_4065.jpg,2026-08-14,Almacén del Molino Azul,5,A05,2.00,unidad,5770.17,0.00,11540.34,98455.69
+M-004,facturas/IMG_4082.jpg,2026-08-14,Granja La Ochava,1,L01,5.00,unidad,38295.70,8.00,176160.22,229002.88
+M-004,facturas/IMG_4082.jpg,2026-08-14,Granja La Ochava,2,L02,5.00,l,5949.09,8.00,27365.81,229002.88
+M-004,facturas/IMG_4082.jpg,2026-08-14,Granja La Ochava,3,L03,5000.00,ml,1.85,8.00,8510.00,229002.88
+M-004,facturas/IMG_4082.jpg,2026-08-14,Granja La Ochava,4,L04,3.00,unidad,1834.87,0.00,5504.61,229002.88
+M-004,facturas/IMG_4082.jpg,2026-08-14,Granja La Ochava,5,L05,4.00,docena,3114.74,8.00,11462.24,229002.88
+M-005,facturas/IMG_4099.jpg,2026-09-12,Huerta del Andén,1,H03,6.00,kg,3144.52,8.00,17357.75,198828.20
+M-005,facturas/IMG_4099.jpg,2026-09-12,Huerta del Andén,2,H04,6000.00,g,1.96,8.00,10819.20,198828.20
+M-005,facturas/IMG_4099.jpg,2026-09-12,Huerta del Andén,3,H05,5.00,cajón,26653.97,8.00,122608.26,198828.20
+M-005,facturas/IMG_4099.jpg,2026-09-12,Huerta del Andén,4,H06,6.00,kg,4873.44,8.00,26901.39,198828.20
+M-005,facturas/IMG_4099.jpg,2026-09-12,Huerta del Andén,5,H07,3000.00,g,7.66,8.00,21141.60,198828.20
+M-006,facturas/IMG_4116.jpg,2026-09-12,Frigorífico del Muelle,1,C03,2.00,kg,11585.07,0.00,23170.14,248552.84
+M-006,facturas/IMG_4116.jpg,2026-09-12,Frigorífico del Muelle,2,C04,3.00,bolsa,38249.90,0.00,114749.70,248552.84
+M-006,facturas/IMG_4116.jpg,2026-09-12,Frigorífico del Muelle,3,C05,4.00,kg,13926.79,8.00,51250.59,248552.84
+M-006,facturas/IMG_4116.jpg,2026-09-12,Frigorífico del Muelle,4,C06,5000.00,g,9.55,8.00,43930.00,248552.84
+M-006,facturas/IMG_4116.jpg,2026-09-12,Frigorífico del Muelle,5,C07,5.00,unidad,3359.22,8.00,15452.41,248552.84
+M-007,facturas/IMG_4133.jpg,2026-09-12,Almacén del Molino Azul,1,A03,4.00,bolsa,20421.38,8.00,75150.68,118366.60
+M-007,facturas/IMG_4133.jpg,2026-09-12,Almacén del Molino Azul,2,A04,2.00,kg,3612.91,0.00,7225.82,118366.60
+M-007,facturas/IMG_4133.jpg,2026-09-12,Almacén del Molino Azul,3,A05,4000.00,ml,4.62,8.00,17001.60,118366.60
+M-007,facturas/IMG_4133.jpg,2026-09-12,Almacén del Molino Azul,4,A06,4.00,unidad,1991.12,8.00,7327.32,118366.60
+M-007,facturas/IMG_4133.jpg,2026-09-12,Almacén del Molino Azul,5,A07,4.00,kg,3168.80,8.00,11661.18,118366.60
+M-008,facturas/IMG_4150.jpg,2026-09-12,Granja La Ochava,1,L03,5.00,l,2212.43,8.00,10177.18,152164.34
+M-008,facturas/IMG_4150.jpg,2026-09-12,Granja La Ochava,2,L04,2000.00,g,10.95,8.00,20148.00,152164.34
+M-008,facturas/IMG_4150.jpg,2026-09-12,Granja La Ochava,3,L05,5.00,maple,9282.11,8.00,42697.71,152164.34
+M-008,facturas/IMG_4150.jpg,2026-09-12,Granja La Ochava,4,L06,4.00,kg,4145.83,8.00,15256.65,152164.34
+M-008,facturas/IMG_4150.jpg,2026-09-12,Granja La Ochava,5,L07,4000.00,g,17.36,8.00,63884.80,152164.34
+M-009,facturas/IMG_4167.jpg,2026-10-28,Huerta del Andén,1,H05,3000.00,g,1.97,8.00,5437.20,50034.43
+M-009,facturas/IMG_4167.jpg,2026-10-28,Huerta del Andén,2,H06,5.00,atado,2303.81,8.00,10597.53,50034.43
+M-009,facturas/IMG_4167.jpg,2026-10-28,Huerta del Andén,3,H07,2.00,kg,9041.85,0.00,18083.70,50034.43
+M-009,facturas/IMG_4167.jpg,2026-10-28,Huerta del Andén,4,H08,4000.00,g,3.27,8.00,12033.60,50034.43
+M-009,facturas/IMG_4167.jpg,2026-10-28,Huerta del Andén,5,H01,2000.00,g,2.11,8.00,3882.40,50034.43
+M-010,facturas/IMG_4184.jpg,2026-10-28,Frigorífico del Muelle,1,C05,2.00,kg,16363.51,0.00,32727.02,176059.75
+M-010,facturas/IMG_4184.jpg,2026-10-28,Frigorífico del Muelle,2,C06,2.00,unidad,1344.97,0.00,2689.94,176059.75
+M-010,facturas/IMG_4184.jpg,2026-10-28,Frigorífico del Muelle,3,C07,4000.00,g,13.14,8.00,48355.20,176059.75
+M-010,facturas/IMG_4184.jpg,2026-10-28,Frigorífico del Muelle,4,C08,4000.00,g,17.34,8.00,63811.20,176059.75
+M-010,facturas/IMG_4184.jpg,2026-10-28,Frigorífico del Muelle,5,C01,3.00,kg,9492.13,0.00,28476.39,176059.75
+M-011,facturas/IMG_4201.jpg,2026-10-28,Almacén del Molino Azul,1,A05,5.00,l,5397.42,8.00,24828.13,87051.21
+M-011,facturas/IMG_4201.jpg,2026-10-28,Almacén del Molino Azul,2,A06,5000.00,g,4.65,8.00,21390.00,87051.21
+M-011,facturas/IMG_4201.jpg,2026-10-28,Almacén del Molino Azul,3,A07,6.00,unidad,3510.17,8.00,19376.14,87051.21
+M-011,facturas/IMG_4201.jpg,2026-10-28,Almacén del Molino Azul,4,A08,6.00,kg,3320.46,8.00,18328.94,87051.21
+M-011,facturas/IMG_4201.jpg,2026-10-28,Almacén del Molino Azul,5,A01,2000.00,g,1.70,8.00,3128.00,87051.21
+M-012,facturas/IMG_4218.jpg,2026-10-28,Granja La Ochava,1,L05,150.00,unidad,359.25,8.00,49576.50,277162.36
+M-012,facturas/IMG_4218.jpg,2026-10-28,Granja La Ochava,2,L06,4.00,unidad,4810.39,8.00,17702.24,277162.36
+M-012,facturas/IMG_4218.jpg,2026-10-28,Granja La Ochava,3,L07,3.00,kg,20128.50,0.00,60385.50,277162.36
+M-012,facturas/IMG_4218.jpg,2026-10-28,Granja La Ochava,4,L08,5000.00,g,9.30,8.00,42780.00,277162.36
+M-012,facturas/IMG_4218.jpg,2026-10-28,Granja La Ochava,5,L01,2.00,unidad,53359.06,0.00,106718.12,277162.36
+T-001,tickets/ticket-6101.jpg,2026-08-20,Huerta del Andén,1,H01,2.00,cajón,27489.78,0.00,54979.56,186711.31
+T-001,tickets/ticket-6101.jpg,2026-08-20,Huerta del Andén,2,H02,6000.00,g,1.28,8.00,7065.60,186711.31
+T-001,tickets/ticket-6101.jpg,2026-08-20,Huerta del Andén,3,H03,4.00,cajón,32500.82,8.00,119603.02,186711.31
+T-001,tickets/ticket-6101.jpg,2026-08-20,Huerta del Andén,4,H04,3.00,kg,1687.71,0.00,5063.13,186711.31
+T-002,tickets/ticket-6114.jpg,2026-08-20,Frigorífico del Muelle,1,C03,5000.00,g,10.05,8.00,46230.00,201016.05
+T-002,tickets/ticket-6114.jpg,2026-08-20,Frigorífico del Muelle,2,C04,2.00,bolsa,33203.40,0.00,66406.80,201016.05
+T-002,tickets/ticket-6114.jpg,2026-08-20,Frigorífico del Muelle,3,C05,3000.00,g,12.10,8.00,33396.00,201016.05
+T-002,tickets/ticket-6114.jpg,2026-08-20,Frigorífico del Muelle,4,C06,5.00,docena,11952.88,8.00,54983.25,201016.05
+T-003,tickets/ticket-6127.jpg,2026-08-20,Almacén del Molino Azul,1,A05,5.00,unidad,6060.92,8.00,27880.23,82979.50
+T-003,tickets/ticket-6127.jpg,2026-08-20,Almacén del Molino Azul,2,A06,3.00,kg,3483.83,0.00,10451.49,82979.50
+T-003,tickets/ticket-6127.jpg,2026-08-20,Almacén del Molino Azul,3,A07,4000.00,g,2.77,8.00,10193.60,82979.50
+T-003,tickets/ticket-6127.jpg,2026-08-20,Almacén del Molino Azul,4,A08,5.00,bolsa,7490.04,8.00,34454.18,82979.50
+T-004,tickets/ticket-6140.jpg,2026-08-20,Granja La Ochava,1,L07,5.00,kg,15282.75,8.00,70300.65,306363.82
+T-004,tickets/ticket-6140.jpg,2026-08-20,Granja La Ochava,2,L08,5000.00,g,7.07,8.00,32522.00,306363.82
+T-004,tickets/ticket-6140.jpg,2026-08-20,Granja La Ochava,3,L01,5.00,unidad,40178.62,8.00,184821.65,306363.82
+T-004,tickets/ticket-6140.jpg,2026-08-20,Granja La Ochava,4,L02,3.00,l,6239.84,0.00,18719.52,306363.82
+T-005,tickets/ticket-6153.jpg,2026-08-20,Huerta del Andén,1,H01,2.00,cajón,27489.78,0.00,54979.56,216957.20
+T-005,tickets/ticket-6153.jpg,2026-08-20,Huerta del Andén,2,H02,4000.00,g,1.28,8.00,4710.40,216957.20
+T-005,tickets/ticket-6153.jpg,2026-08-20,Huerta del Andén,3,H03,5.00,cajón,32500.82,8.00,149503.77,216957.20
+T-005,tickets/ticket-6153.jpg,2026-08-20,Huerta del Andén,4,H04,5.00,kg,1687.71,8.00,7763.47,216957.20
+T-006,tickets/ticket-6166.jpg,2026-09-20,Frigorífico del Muelle,1,C01,2.00,bolsa,42061.11,0.00,84122.22,317631.08
+T-006,tickets/ticket-6166.jpg,2026-09-20,Frigorífico del Muelle,2,C02,2.00,kg,15449.42,0.00,30898.84,317631.08
+T-006,tickets/ticket-6166.jpg,2026-09-20,Frigorífico del Muelle,3,C03,5000.00,g,12.10,8.00,55660.00,317631.08
+T-006,tickets/ticket-6166.jpg,2026-09-20,Frigorífico del Muelle,4,C04,4.00,bolsa,39932.07,8.00,146950.02,317631.08
+T-007,tickets/ticket-6179.jpg,2026-09-20,Almacén del Molino Azul,1,A03,6.00,kg,4257.34,8.00,23500.52,89977.46
+T-007,tickets/ticket-6179.jpg,2026-09-20,Almacén del Molino Azul,2,A04,6000.00,g,3.77,8.00,20810.40,89977.46
+T-007,tickets/ticket-6179.jpg,2026-09-20,Almacén del Molino Azul,3,A05,4.00,unidad,7223.90,8.00,26583.95,89977.46
+T-007,tickets/ticket-6179.jpg,2026-09-20,Almacén del Molino Azul,4,A06,5.00,kg,4148.39,8.00,19082.59,89977.46
+T-008,tickets/ticket-6192.jpg,2026-09-20,Granja La Ochava,1,L05,120.00,unidad,321.86,8.00,35533.34,176770.45
+T-008,tickets/ticket-6192.jpg,2026-09-20,Granja La Ochava,2,L06,5.00,unidad,4311.97,8.00,19835.06,176770.45
+T-008,tickets/ticket-6192.jpg,2026-09-20,Granja La Ochava,3,L07,5.00,kg,18051.75,8.00,83038.05,176770.45
+T-008,tickets/ticket-6192.jpg,2026-09-20,Granja La Ochava,4,L08,5000.00,g,8.34,8.00,38364.00,176770.45
+T-009,tickets/ticket-6205.jpg,2026-09-20,Huerta del Andén,1,H07,4000.00,g,8.00,8.00,29440.00,264436.77
+T-009,tickets/ticket-6205.jpg,2026-09-20,Huerta del Andén,2,H08,6.00,cajón,40552.22,8.00,223848.25,264436.77
+T-009,tickets/ticket-6205.jpg,2026-09-20,Huerta del Andén,3,H01,4.00,kg,1859.49,8.00,6842.92,264436.77
+T-009,tickets/ticket-6205.jpg,2026-09-20,Huerta del Andén,4,H02,3000.00,g,1.56,8.00,4305.60,264436.77
+T-010,tickets/ticket-6218.jpg,2026-09-20,Frigorífico del Muelle,1,C01,3.00,bolsa,42061.11,0.00,126183.33,314591.80
+T-010,tickets/ticket-6218.jpg,2026-09-20,Frigorífico del Muelle,2,C02,3.00,kg,15449.42,0.00,46348.26,314591.80
+T-010,tickets/ticket-6218.jpg,2026-09-20,Frigorífico del Muelle,3,C03,2000.00,g,12.10,8.00,22264.00,314591.80
+T-010,tickets/ticket-6218.jpg,2026-09-20,Frigorífico del Muelle,4,C04,3.00,bolsa,39932.07,0.00,119796.21,314591.80
+T-011,tickets/ticket-6231.jpg,2026-10-30,Almacén del Molino Azul,1,A01,5000.00,g,1.77,8.00,8142.00,84257.09
+T-011,tickets/ticket-6231.jpg,2026-10-30,Almacén del Molino Azul,2,A02,3.00,bolsa,17741.84,0.00,53225.52,84257.09
+T-011,tickets/ticket-6231.jpg,2026-10-30,Almacén del Molino Azul,3,A03,3.00,kg,4949.59,0.00,14848.77,84257.09
+T-011,tickets/ticket-6231.jpg,2026-10-30,Almacén del Molino Azul,4,A04,2000.00,g,4.37,8.00,8040.80,84257.09
+T-012,tickets/ticket-6244.jpg,2026-10-30,Granja La Ochava,1,L03,4.00,unidad,2662.39,8.00,9797.60,134717.43
+T-012,tickets/ticket-6244.jpg,2026-10-30,Granja La Ochava,2,L04,4.00,kg,13161.70,8.00,48435.06,134717.43
+T-012,tickets/ticket-6244.jpg,2026-10-30,Granja La Ochava,3,L05,180.00,unidad,371.71,8.00,61555.18,134717.43
+T-012,tickets/ticket-6244.jpg,2026-10-30,Granja La Ochava,4,L06,3.00,unidad,4976.53,0.00,14929.59,134717.43
+T-013,tickets/ticket-6257.jpg,2026-10-30,Huerta del Andén,1,H05,4.00,cajón,32745.77,8.00,120504.43,365191.12
+T-013,tickets/ticket-6257.jpg,2026-10-30,Huerta del Andén,2,H06,3.00,kg,5981.04,0.00,17943.12,365191.12
+T-013,tickets/ticket-6257.jpg,2026-10-30,Huerta del Andén,3,H07,6000.00,g,9.39,8.00,51832.80,365191.12
+T-013,tickets/ticket-6257.jpg,2026-10-30,Huerta del Andén,4,H08,4.00,cajón,47530.10,8.00,174910.77,365191.12
+T-014,tickets/ticket-6270.jpg,2026-10-30,Frigorífico del Muelle,1,C07,4.00,kg,13620.29,8.00,50122.67,366919.59
+T-014,tickets/ticket-6270.jpg,2026-10-30,Frigorífico del Muelle,2,C08,2.00,kg,17979.33,0.00,35958.66,366919.59
+T-014,tickets/ticket-6270.jpg,2026-10-30,Frigorífico del Muelle,3,C01,5.00,bolsa,49260.51,8.00,226598.35,366919.59
+T-014,tickets/ticket-6270.jpg,2026-10-30,Frigorífico del Muelle,4,C02,3.00,kg,18079.97,0.00,54239.91,366919.59
+T-015,tickets/ticket-6283.jpg,2026-10-30,Almacén del Molino Azul,1,A01,5000.00,g,1.77,8.00,8142.00,120855.71
+T-015,tickets/ticket-6283.jpg,2026-10-30,Almacén del Molino Azul,2,A02,4.00,bolsa,17741.84,8.00,65289.97,120855.71
+T-015,tickets/ticket-6283.jpg,2026-10-30,Almacén del Molino Azul,3,A03,6.00,kg,4949.59,8.00,27321.74,120855.71
+T-015,tickets/ticket-6283.jpg,2026-10-30,Almacén del Molino Azul,4,A04,5000.00,g,4.37,8.00,20102.00,120855.71
