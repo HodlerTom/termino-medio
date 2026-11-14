@@ -42,11 +42,12 @@ python3 costeo.py --nivel 1 --datos ruta/a/nivel-1 --salida ../../nivel-1/costos
 
 `--detalle` imprime la factura y el renglón elegidos para cada producto, el precio unitario efectivo y el costo sin redondear de cada plato.
 
-## Control
+## Supuestos
 
-Hicimos una segunda implementación independiente:
-- lee las facturas con otro método (texto extraído de los PDF);
-- calcula con fracciones exactas;
-- expande cada plato a cantidades brutas de compra.
+- El nivel 1 se calcula solo con su propio material (las cinco facturas de esa entrega). La nota NC-001, que llega recién con el lote del nivel 2, no se aplica al nivel 1: el enunciado del nivel 2 indica que su lote reemplaza las compras para el cálculo de esa entrega.
+- En el nivel 2, NC-001 y NC-002 ajustan facturas que al 31/10/2026 ya no son las vigentes, así que no cambian ningún costo. NC-003 y NC-004 sí se aplican sobre su factura y renglón de origen.
+- Se usa el importe neto impreso de cada renglón, sin IVA ni otros conceptos.
 
-Dio los mismos 50 valores (y los 3 del nivel 1). Además, se revisaron a mano P02, P10, P22 y P42 con precios tomados de los PDF. También se comprobó que en las 320 líneas de factura el neto coincide con cantidad × precio × (1 − bonificación) y que la bonificación del 8 % respeta su umbral.
+## Verificación
+
+Se revisaron a mano P02, P10, P22 y P42 con precios tomados de los PDF. También se comprobó que en las 320 líneas de factura el neto coincide con cantidad × precio × (1 − bonificación) y que la bonificación del 8 % respeta su umbral.
