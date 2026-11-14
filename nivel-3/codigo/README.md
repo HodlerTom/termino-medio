@@ -60,15 +60,9 @@ Según el manual de caja:
 python3 margenes.py --nivel2 ruta/nivel-2 --nivel1 ruta/nivel-1 --caja ruta/nivel-3/caja --salida ..
 ```
 
-## Control
+## Supuestos
 
-Se hizo una implementación independiente, que:
-- calcula con fracciones exactas;
-- lee los PDF con otra herramienta;
-- desarma cada plato hasta las cantidades brutas;
-- agrega las ventas por día y por plato.
-
-Dio los mismos 50 costos y las mismas 50 filas de margen, carácter por carácter. Además se verificaron a mano:
-- el costo de P01 al 16/08 con los precios de M-001, M-002, M-003, F-005 y F-007;
-- el efecto de las notas de crédito en su fecha (NC-001 el 09/08, NC-003 el 25/10, NC-004 el 26/10);
-- las unidades e ingresos de P12 (solo VTA y REV) y de P01 (dos códigos de caja más el combo CB01).
+- Las unidades vendidas de cada plato incluyen las que salen dentro de combos (cantidad del combo × unidades del componente según el maestro de combos). El manual reparte el cobro de los combos entre sus componentes e indica que "el costo usa las unidades de cada componente"; ingreso, costo y unidades se imputan así al mismo plato.
+- Los comprobantes manuscritos M-xxx de `facturas/` se toman como compras: todos tienen precio unitario, bonificación, neto y total, y el enunciado indica que las nuevas compras están en `facturas/` y `tickets/`. Se usa el valor corregido cuando hay tachaduras.
+- La fecha de disponibilidad de una compra es la fecha del comprobante; no hay otra fecha de recepción en los documentos ni en los maestros.
+- No se descuenta IVA: no figura en el manual, los maestros ni los comprobantes. El ingreso neto es bruto menos descuento; las propinas (EXT) se excluyen y los REV restan de su venta original.
